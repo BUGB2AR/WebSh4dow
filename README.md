@@ -40,6 +40,13 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
     <a href="https://jquery.com" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/> </a>
 </p>
+### 🔹Mobile Frameworks and Libraries
+
+<p align="center">
+    <a href="https://reactnative.dev" target="_blank"> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/> </a>
+    <a href="https://expo.dev" target="_blank"> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/> </a>
+    <a href="https://reactnavigation.org" target="_blank"> <img src="https://img.shields.io/badge/React%20Navigation-CA4245?style=for-the-badge&logo=react&logoColor=white" alt="React Navigation"/> </a>
+</p>
 
 ### 🔹Databases
 
