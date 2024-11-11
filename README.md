@@ -74,7 +74,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jarmison-paiva" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-    <a href="https://github.com/WebSh4dow" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+    <a href="https://github.com/BUGB2AR" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
 </p>
 
 <p align="center">
@@ -84,9 +84,9 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/WebSh4dow">
-    <img src="https://github-readme-stats.vercel.app/api?username=WebSh4dow&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebSh4dow&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/BUGB2AR">
+    <img src="https://github-readme-stats.vercel.app/api?username=BUGB2AR&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUGB2AR&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
 
